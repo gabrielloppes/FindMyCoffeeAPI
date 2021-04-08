@@ -1,6 +1,6 @@
 # **Find My Coffee Backend**
 
-Find nearby coffee shops and enjoy a greate cup of coffee with friends, family or by yourself.
+Find nearby coffee shops and enjoy a great cup of coffee with friends, family or by yourself.
 
 ## **Topics**
 1 - **[Technologies used](#technologies-used)**<br>
